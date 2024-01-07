@@ -1,0 +1,25 @@
+body {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.33;
+  color: #000C22;
+}
+
+.main {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.container {
+  position: relative;
+  max-width: 90%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+@media (max-width: 560px) {
+  .container {
+    padding: 0 15px;
+  }
+}/*# sourceMappingURL=style.css.map */

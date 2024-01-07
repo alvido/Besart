@@ -1,0 +1,1 @@
+{"version":3,"sources":["../scss/_general.scss","../scss/_veriables.scss","style.css","../scss/_mixins.scss"],"names":[],"mappings":"AAAA;EACI,gCAAA;EACA,kBAAA;EACA,gBAAA;EACA,eAAA;EACA,iBAAA;EACA,cCNS;ACOb;;AFEA;EACI,WAAA;EACA,iBAAA;AECJ;;AFEA;EACI,kBAAA;EACA,cAAA;EACA,eAAA;EACA,cAAA;AECJ;ACmBI;EHxBJ;IAOQ,eAAA;EEEN;AACF","file":"style.css"}
